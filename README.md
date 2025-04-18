@@ -1,4 +1,3 @@
-```markdown
 # Telecom Customer Churn Prediction
 
 This project aims to predict customer churn in the telecom sector using machine learning techniques. By identifying customers likely to leave, telecom companies can proactively engage and retain them, reducing costs associated with acquiring new customers.
@@ -97,19 +96,3 @@ The dataset used is publicly available from Kaggle: [Telco Customer Churn Datase
 ---
 
 Feel free to explore, modify, and improve the models to better suit your telecom customer churn prediction needs.
-```
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/64706810/b8bd90c9-4ecd-453e-a874-ce6a7b9413e8/IBA_presentation.pdf
-[2] https://github.com/KanduriR/Kaggle-Telco-Customer-Churn
-[3] https://www.kaggle.com/datasets/aadityabansalcodes/telecommunications-industry-customer-churn-dataset
-[4] https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-[5] https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
-[6] https://www.kaggle.com/datasets/blastchar/telco-customer-churn/code
-[7] https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets
-[8] https://www.kaggle.com/datasets/shivam131019/telecom-churn-dataset
-[9] https://www.kaggle.com/datasets/denisexpsito/telco-customer-churn-ibm
-[10] https://www.kaggle.com/code/praxitelisk/telco-customer-churn-eda-ml
-
----
-Answer from Perplexity: https://www.perplexity.ai/search/go-through-attachment-and-tell-6ZDFsrVVRbWXg9Fij3iyIg?utm_source=copy_output
